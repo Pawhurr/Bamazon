@@ -48,6 +48,7 @@ function start() {
         if (err) throw err;
         for (var i = 0; i < res.length; i++) {
             console.log(res[i].item_id + "     $" + res[i].price + "     " + res[i].product_name);
+            // console.table([res[i].item_id, "$" + res[i].price, res[i].product_name]);
 
         };
         console.log("~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~");
@@ -58,7 +59,7 @@ function start() {
                 type: "input",
                 message: "Enter the product ID of what you would like to buy:",
                 // validate: function (name) {
-                //     if (isNan(name) == false) {
+                //     if (isNan(name) === false) {
                 //         return true;
                 //     } else {
                 //         return false;
@@ -70,7 +71,7 @@ function start() {
                 type: "input",
                 message: "How many would you like to purchase?",
                 // validate: function (name) {
-                //     if (isNan(name) == false) {
+                //     if (isNan(name) === false) {
                 //         return true;
                 //     } else {
                 //         return false;
