@@ -10,4 +10,4 @@ In Manager View, you can choose to see what is for sale, see what inventory is l
 
 Click [here](https://drive.google.com/file/d/1bJOcbQt0EPpgiF0jqgwe7ck-Vg_rNmGr/view) to see a video walkthrough!
 
-Click [here](https://drive.google.com/file/d/1FT3vhuDQdRS3nvdLDvQAHeH-LY6-KhF3/view) to see the exceeds inventory limit function of the Customer View I didn't demo in the first video.
+Click [here](https://drive.google.com/file/d/1FT3vhuDQdRS3nvdLDvQAHeH-LY6-KhF3/view) to see the 'exceeds inventory limit' functionality of the Customer View I didn't demo in the first video.
